@@ -6,9 +6,7 @@ var currentDate = moment().format('dddd') + ", " + moment().format("MMMM Do YYYY
 // gets the current hour
 var hour = moment().hour();
 
-// empty var elements for storage purposes
-var textInput;
-var hours;
+
 
 // ids of each timeblock
 var nine = $("#9");
@@ -49,7 +47,7 @@ function colorStyle(){
 }
 
 
-// sets up storeage for ls
+// setup for storage 
 function store(){
     var nineAm = JSON.parse(localStorage.getItem("9AM"))
     var tenAm = JSON.parse(localStorage.getItem("10AM"))
