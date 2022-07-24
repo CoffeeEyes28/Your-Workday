@@ -27,4 +27,4 @@ Green = Upcoming
 
 
 # Link
-<a href="https://coffeeeyes28.github.io/Your-Workweek/">https://coffeeeyes28.github.io/Your-Workweek/</a>
+<a href="https://coffeeeyes28.github.io/Your-Workday/">https://coffeeeyes28.github.io/Your-Workday/</a>
